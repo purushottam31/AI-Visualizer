@@ -1,0 +1,5 @@
+{
+  "name": "AI Concept Visualizer",
+  "description": "A frontend UI for an AI concept visualizer, featuring an explanation panel and a diagram/quiz area.",
+  "requestFramePermissions": ["microphone"]
+}
